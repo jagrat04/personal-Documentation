@@ -8,3 +8,5 @@ sudo rm -rf / -a
 do try
 
 2. java - just some syntax and things i might forget or i like
+
+its named Jav@ to be able to execute any files directly and not run into issue of a patent file beeing named "Java"
