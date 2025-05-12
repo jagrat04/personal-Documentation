@@ -6,4 +6,5 @@ although its named linux, windows and freeBSD(if i ever add one) cmd will also b
 sudo rm -rf / -a
 ```
 do try
+
 2. java - just some syntax and things i might forget or i like
